@@ -1,0 +1,16 @@
+{
+  "name": "markaspot/markaspot_features",
+  "description": "Feature bundle for the Drupal 8 Mark-a-Spot Distribution",
+  "type": "drupal-module",
+  "homepage": "https://github.com/markaspot/markaspot_features",
+  "authors": [
+    {
+      "name": "Holger Kreis (markaspot)",
+      "homepage": "https://www.drupal.org/u/markaspot",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "drupal/features": "8.3.*"
+  }
+}
