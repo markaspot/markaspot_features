@@ -11,6 +11,6 @@
     }
   ],
   "require": {
-    "drupal/features": "8.3.*"
+    "drupal/features": "3.x-dev"
   }
 }
