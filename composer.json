@@ -9,8 +9,5 @@
       "homepage": "https://www.drupal.org/u/markaspot",
       "role": "Maintainer"
     }
-  ],
-  "require": {
-    "drupal/features": "3.0.0-beta9"
-  }
+  ]
 }
