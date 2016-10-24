@@ -19,3 +19,4 @@ permissions:
   - 'access open311 extension'
   - 'view own field_status'
   - 'view field_status'
+  - 'restful post georeport_request_index_resource'
