@@ -1,8 +1,6 @@
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: dJ0L2DNSj5q6XVZAGsuVDpJTh5UeYkIPwKrUOOpr8YI
 id: authenticated
 label: 'Authenticated user'
 weight: 1
@@ -17,6 +15,7 @@ permissions:
   - 'access shortcuts'
   - 'search content'
   - 'access open311 extension'
-  - 'view own field_status'
   - 'view field_status'
   - 'restful post georeport_request_index_resource'
+  - 'use text format basic_html'
+  - 'view field_address'

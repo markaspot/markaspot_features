@@ -26,4 +26,5 @@ permissions:
   - 'create field_address'
   - 'edit own field_address'
   - 'edit field_address'
-  - 'view field_address'
+  - 'view own field_status'
+  - 'view own field_address'
