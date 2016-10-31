@@ -9,4 +9,5 @@ dependencies:
   - rdf
   - text
   - user
+  - pathauto
 package: Mark-a-Spot
