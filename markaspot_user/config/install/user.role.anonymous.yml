@@ -13,7 +13,7 @@ permissions:
   - 'search content'
   - 'restful get georeport_request_index_resource'
   - 'restful get georeport_service_index_resource'
-  - 'view field_status'
+  - 'view field_status_notes'
   - 'create field_e_mail'
   - 'view field_address'
   - 'create service_request content'

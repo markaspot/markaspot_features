@@ -15,7 +15,7 @@ permissions:
   - 'access shortcuts'
   - 'search content'
   - 'access open311 extension'
-  - 'view field_status'
+  - 'view field_status_notes'
   - 'restful post georeport_request_index_resource'
   - 'use text format basic_html'
   - 'view field_address'
