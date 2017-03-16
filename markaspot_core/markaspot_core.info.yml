@@ -6,7 +6,6 @@ dependencies:
   - block
   - block_content
   - comment
-  - contact
   - file
   - menu_link_content
   - message
