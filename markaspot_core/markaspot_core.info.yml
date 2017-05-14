@@ -8,7 +8,6 @@ dependencies:
   - comment
   - file
   - menu_link_content
-  - message
   - node
   - search_api
   - shortcut
